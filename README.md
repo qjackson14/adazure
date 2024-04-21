@@ -29,8 +29,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="735" alt="azure resources active directory" src="https://github.com/qjackson14/adazure/assets/156969011/d3ec5c51-4abf-4735-9511-87a7d47e6a0c">
 </p>
 <p>
 Setup environment in Azure (DC-1 & Client-1) 
