@@ -27,6 +27,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Setup Environment Azure VMs (DC-1 & Client-1)
 - Install Active Directory
 
+<h2>What is Active Directory & Why It Is Needed:</h2>
+
+Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks. It is used to store and manage information about network resources such as computers, users, and groups, and to provide a structured and secure environment for accessing these resources. AD uses a hierarchical structure to organize resources, allowing administrators to efficiently manage permissions and access rights across the network. It is essential for centralized authentication and authorization, enabling users to access network resources with a single set of credentials. For IT administrators, AD simplifies the management of network security policies, software deployment, and user and group management, making it a critical component for maintaining an organized, secure, and scalable network infrastructure.
+
+
 <h2>Deployment and Configuration Steps</h2>
 
 <p><img width="735" alt="azure resources active directory" src="https://github.com/qjackson14/adazure/assets/156969011/d3ec5c51-4abf-4735-9511-87a7d47e6a0c">
